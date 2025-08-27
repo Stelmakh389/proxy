@@ -5,7 +5,7 @@
 set -e
 
 # Конфигурация
-AMSTERDAM_SERVER="185.200.178.213"
+AMSTERDAM_SERVER="your.amsterdam.server.ip"
 AMSTERDAM_USER="root"
 PROJECT_DIR="/opt/gemini-proxy"
 LOCAL_DIR="/Users/andrejstelmah/Desktop/fast_docs/proxy-files"
